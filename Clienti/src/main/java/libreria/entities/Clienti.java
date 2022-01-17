@@ -1,6 +1,5 @@
 package libreria.entities;
 
-
 //qui uso mongo come db
 public class Clienti implements Comparable<Clienti>{
 	
